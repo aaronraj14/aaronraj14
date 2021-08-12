@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aaronraj14
 - 👀 I’m interested in cooking and MMA
-- 🌱 I’m currently working as Programmer/Analyst
+- 🌱 I’m currently working as Software Engineer
 - 💞️ I’m looking to collaborate on some project 
 - 📫 How to reach me through linkedin(Aaron Raj)
 
